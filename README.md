@@ -1,11 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Max and I'm a freelance DevOps and cloud engineer from Germany. I gain, apply and pass on knowledge about how to setup modern infrastructure on a daily basis.
+My name is Max and I'm a freelance DevOps and cloud engineer from Germany.
+
+I gain, apply and pass on knowledge about how to setup modern infrastructure on a daily basis.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/__brennerm?style=social)](https://twitter.com/__brennerm)
 [![Github Follow](https://img.shields.io/github/followers/brennerm?style=social)](https://github.com/brennerm)
 
-### latest blog posts
+### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing applications on Kubernetes using Machine Learning](https://brennerm.github.io/posts/optimzing-kubernetes-applications.html)
@@ -14,3 +16,7 @@ My name is Max and I'm a freelance DevOps and cloud engineer from Germany. I gai
 - [AWS EC2 launch configurations vs launch templates](https://brennerm.github.io/posts/aws-launch-configuration-vs-template.html)
 - [My first month of self-employment](https://brennerm.github.io/posts/first-month-of-self-employment.html)
 <!-- BLOG-POST-LIST:END -->
+
+### Kubernetes overview diagrams
+
+<a href="https://brennerm.github.io/posts/kubernetes-overview-diagrams.html"><img src="https://brennerm.github.io/static/images/k8s-architecture.svg" width="300px"></a>
