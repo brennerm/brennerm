@@ -1,4 +1,11 @@
-## latest blog posts
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+My name is Max and I'm a freelance DevOps and cloud engineer from Germany. I gain, apply and pass on knowledge about how to setup modern infrastructure on a daily basis.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/__brennerm?style=social)](https://twitter.com/__brennerm)
+[![Github Follow](https://img.shields.io/github/followers/brennerm?style=social)](https://github.com/brennerm)
+
+### latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing applications on Kubernetes using Machine Learning](https://brennerm.github.io/posts/optimzing-kubernetes-applications.html)
