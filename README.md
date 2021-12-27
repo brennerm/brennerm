@@ -10,11 +10,11 @@ I gain, apply and pass on knowledge about how to setup modern infrastructure on 
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving from utterances to giscus](https://shipit.dev/posts/from-utterances-to-giscus.html)
 - [Why newly created AWS Route53 records may not resolve](https://shipit.dev/posts/failing-aws-route53-records.html)
 - [Optimizing applications on Kubernetes using Machine Learning](https://shipit.dev/posts/optimzing-kubernetes-applications.html)
 - [Self-employment: three months update](https://shipit.dev/posts/self-employment-month-three.html)
 - [How to waste money using Kubernetes](https://shipit.dev/posts/wasting-money-with-kubernetes.html)
-- [AWS EC2 launch configurations vs launch templates](https://shipit.dev/posts/aws-launch-configuration-vs-template.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Kubernetes overview diagrams
